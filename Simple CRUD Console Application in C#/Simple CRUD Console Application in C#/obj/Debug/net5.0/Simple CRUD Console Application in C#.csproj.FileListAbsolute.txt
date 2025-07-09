@@ -1,0 +1,15 @@
+C:\coding c#\Simple CRUD Console Application in C#\Simple CRUD Console Application in C#\bin\Debug\net5.0\Simple CRUD Console Application in C#.exe
+C:\coding c#\Simple CRUD Console Application in C#\Simple CRUD Console Application in C#\bin\Debug\net5.0\Simple CRUD Console Application in C#.deps.json
+C:\coding c#\Simple CRUD Console Application in C#\Simple CRUD Console Application in C#\bin\Debug\net5.0\Simple CRUD Console Application in C#.runtimeconfig.json
+C:\coding c#\Simple CRUD Console Application in C#\Simple CRUD Console Application in C#\bin\Debug\net5.0\Simple CRUD Console Application in C#.runtimeconfig.dev.json
+C:\coding c#\Simple CRUD Console Application in C#\Simple CRUD Console Application in C#\bin\Debug\net5.0\Simple CRUD Console Application in C#.dll
+C:\coding c#\Simple CRUD Console Application in C#\Simple CRUD Console Application in C#\bin\Debug\net5.0\Simple CRUD Console Application in C#.pdb
+C:\coding c#\Simple CRUD Console Application in C#\Simple CRUD Console Application in C#\obj\Debug\net5.0\Simple CRUD Console Application in C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\coding c#\Simple CRUD Console Application in C#\Simple CRUD Console Application in C#\obj\Debug\net5.0\Simple CRUD Console Application in C#.AssemblyInfoInputs.cache
+C:\coding c#\Simple CRUD Console Application in C#\Simple CRUD Console Application in C#\obj\Debug\net5.0\Simple CRUD Console Application in C#.AssemblyInfo.cs
+C:\coding c#\Simple CRUD Console Application in C#\Simple CRUD Console Application in C#\obj\Debug\net5.0\Simple CRUD Console Application in C#.csproj.CoreCompileInputs.cache
+C:\coding c#\Simple CRUD Console Application in C#\Simple CRUD Console Application in C#\obj\Debug\net5.0\Simple CRUD Console Application in C#.dll
+C:\coding c#\Simple CRUD Console Application in C#\Simple CRUD Console Application in C#\obj\Debug\net5.0\refint\Simple CRUD Console Application in C#.dll
+C:\coding c#\Simple CRUD Console Application in C#\Simple CRUD Console Application in C#\obj\Debug\net5.0\Simple CRUD Console Application in C#.pdb
+C:\coding c#\Simple CRUD Console Application in C#\Simple CRUD Console Application in C#\obj\Debug\net5.0\Simple CRUD Console Application in C#.genruntimeconfig.cache
+C:\coding c#\Simple CRUD Console Application in C#\Simple CRUD Console Application in C#\obj\Debug\net5.0\ref\Simple CRUD Console Application in C#.dll
